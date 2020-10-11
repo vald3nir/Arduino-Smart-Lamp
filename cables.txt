@@ -1,0 +1,5 @@
+Colors LED cables: 
+
+GREEN -> DATA; 
+WHITE -> POWER; 
+ORANGE -> GROUND
