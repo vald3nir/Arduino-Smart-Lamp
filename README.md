@@ -4,11 +4,9 @@ Smart lamp using Arduino microcontroller connected to a ring of LEDs
 
 ## Technologies Used
 
-### Microcontroller
+### Microcontroller Arduino Uno
 
-| Arduino Uno || ESP 32 |
-| :---:   | :---: | :---: |
-| ![arduino](https://user-images.githubusercontent.com/23506996/143781428-ecd5c6dc-c827-4854-93c6-014ceb9bfc3b.png) | OR | ![image](https://user-images.githubusercontent.com/23506996/193470529-bb0e3825-4612-4f8c-aee0-c2d5bfaca400.png)   |
+![arduino](https://user-images.githubusercontent.com/23506996/143781428-ecd5c6dc-c827-4854-93c6-014ceb9bfc3b.png)
 
 ### NeoPixel Ring - 12 x 5050 RGB LED with Integrated Drivers
 
