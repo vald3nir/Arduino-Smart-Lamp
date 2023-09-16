@@ -1,4 +1,4 @@
-# Arduino Smart Lamp
+# Smart Lamp
 
 Smart lamp using Arduino microcontroller connected to a ring of LEDs
 
@@ -20,30 +20,34 @@ Library Used -> [Adafruit NeoPixel](https://github.com/adafruit/Adafruit_NeoPixe
 
 ![ky038](https://user-images.githubusercontent.com/23506996/143781455-c3c05c4f-cac5-4da4-a95f-6ce18e68070d.png)
 
-## Modes of operation
+## Features
 
-### Used as a christmas tree
+### Christmas Tree Mode
 
 - Random colors
 - Random flasher speed
-- To use this mode just comment the following excerpt: #define SONG_PIN
 
-### Using sound sensor [palms] to change the lamp color
+### DEMO
 
-- Color control through palms
-- To use this mode just remove the comment the following excerpt: #define SONG_PIN
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/23506996/206853203-8df8d62a-8bb1-4377-b1dd-e941beccd184.gif)
+
+### Palm detection controlled mode
+
+- Select the color by clapping your hands
+
+### DEMO
+
+![demo](https://user-images.githubusercontent.com/23506996/143781444-73dbf373-0add-4eae-905a-f84cbc71e76c.gif)
+
+### Mode controlled by serial connection
+
+- Select the color by index from serial connection
+
+### DEMO
+
+![lamp](https://user-images.githubusercontent.com/23506996/143781446-f1e96d3f-bd5f-47e1-85de-dc842d22ad5f.jpg)
+
 
 ## Circuit With Arduino
 
 ![image](https://user-images.githubusercontent.com/23506996/193470289-2ad43fc8-27bb-4f1a-80a4-0ebc292a3bb3.png)
-
-## Demo
-
-![lamp](https://user-images.githubusercontent.com/23506996/143781446-f1e96d3f-bd5f-47e1-85de-dc842d22ad5f.jpg)
-
-![demo](https://user-images.githubusercontent.com/23506996/143781444-73dbf373-0add-4eae-905a-f84cbc71e76c.gif)
-
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/23506996/206853203-8df8d62a-8bb1-4377-b1dd-e941beccd184.gif)
-
-
-
