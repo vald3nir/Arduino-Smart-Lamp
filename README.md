@@ -18,18 +18,7 @@ Library Used -> [Adafruit NeoPixel](https://github.com/adafruit/Adafruit_NeoPixe
 
 ![ky038](https://user-images.githubusercontent.com/23506996/143781455-c3c05c4f-cac5-4da4-a95f-6ce18e68070d.png)
 
-## Features
-
-### Christmas Tree Mode
-
-- Random colors
-- Random flasher speed
-
 ### DEMO
-
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/23506996/206853203-8df8d62a-8bb1-4377-b1dd-e941beccd184.gif)
-
-### Palm detection controlled mode
 
 - Select the color by clapping your hands
 
@@ -39,7 +28,7 @@ Library Used -> [Adafruit NeoPixel](https://github.com/adafruit/Adafruit_NeoPixe
 
 ### Mode controlled by serial connection
 
-- Select the color by index from serial connection
+- Select the color by index from the serial connection
 
 ### DEMO
 
@@ -49,3 +38,6 @@ Library Used -> [Adafruit NeoPixel](https://github.com/adafruit/Adafruit_NeoPixe
 ## Circuit With Arduino
 
 ![image](https://user-images.githubusercontent.com/23506996/193470289-2ad43fc8-27bb-4f1a-80a4-0ebc292a3bb3.png)
+![image](https://github.com/user-attachments/assets/db1dbcae-e413-4e24-b4bb-25fe747ee4ea)
+
+
